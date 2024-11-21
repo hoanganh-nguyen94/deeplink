@@ -3,6 +3,8 @@ from = "/.well-known/assetlinks.json"
 to = "/assetlinks.json"
 status = 200
 force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
 from = "/.well-known/apple-app-site-association"
 to = "/apple-app-site-association.json"
 status = 200
