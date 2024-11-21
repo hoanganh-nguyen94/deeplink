@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": "6476192374.vn.com.hsc.lotus.trade",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "6476192374.vn.com.hsc.lotus.trade"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "6476192374.vn.com.hsc.lotus.trade"
+    ]
+  }
+}
