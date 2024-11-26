@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appID": "6476192374.vn.com.hsc.lotus.trade",
+        "appID": "3BQ374W29B.vn.com.hsc.lotus.trade",
         "paths": [
           "*"
         ]
@@ -10,9 +10,9 @@
     ]
   },
   "webcredentials": {
-    "apps": ["6476192374.vn.com.hsc.lotus.trade"]
+    "apps": ["3BQ374W29B.vn.com.hsc.lotus.trade"]
   },
   "appclips": {
-    "apps": ["6476192374.vn.com.hsc.lotus.trade"]
+    "apps": ["3BQ374W29B.vn.com.hsc.lotus.trade"]
   }
 }
