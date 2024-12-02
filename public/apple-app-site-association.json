@@ -1,18 +1,30 @@
 {
-  "applinks": {
-    "details": [
-      {
-        "appID": "3BQ374W29B.vn.com.hsc.lotus.trade",
-        "paths": [
-          "*"
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "3BQ374W29B.vn.com.hsc.lotus.trade"
+                ],
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {
+                        "/": "/*"
+                    }
+                ]
+            }
         ]
-      }
-    ]
-  },
-  "webcredentials": {
-    "apps": ["3BQ374W29B.vn.com.hsc.lotus.trade"]
-  },
-  "appclips": {
-    "apps": ["3BQ374W29B.vn.com.hsc.lotus.trade"]
-  }
+    },
+    "webcredentials": {
+        "apps": [
+            "3BQ374W29B.vn.com.hsc.lotus.trade"
+        ]
+    },
+
+    "appclips": {
+        "apps": [
+            "3BQ374W29B.vn.com.hsc.lotus.trade"
+        ]
+    }
 }
